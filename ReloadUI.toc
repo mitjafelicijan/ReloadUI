@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ReloadUI
+## Author: Mitja Felicijan (m@mitjafelicijan.com)
+## Notes: A simple addon that exposes reloadui command to the command line.
+## Version: 1.0
+
+ReloadUI.lua
