@@ -4,7 +4,7 @@ Vanilla wow (1.12) addon for reloading the UI with slashcommand.
 
 ## Usage
 
-`/reloadui` to reload the UI
+`/reloadui`, `/reload`, `/rl` to reload the UI.
 
 ## Installation
 
