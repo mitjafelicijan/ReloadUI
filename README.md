@@ -1,6 +1,6 @@
 # ReloadUI for Vanilla WoW (1.12)
 
-Vanilla wow (1.12) addon for reloading the UI with slashcommand
+Vanilla wow (1.12) addon for reloading the UI with slashcommand.
 
 ## Usage
 
