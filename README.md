@@ -2,6 +2,8 @@
 
 Vanilla wow (1.12) addon for reloading the UI with slashcommand.
 
+This is now part of a [TurtleTweaks Addon](https://github.com/mitjafelicijan/TurtleTweaks).
+
 ## Usage
 
 `/reloadui`, `/reload`, `/rl` to reload the UI.
